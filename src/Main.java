@@ -21,6 +21,7 @@ public class Main {
                 Omnivor o1 = new Omnivor();
                 o1.setTofu();
             }
+            //noon do sa
         }
 
 
