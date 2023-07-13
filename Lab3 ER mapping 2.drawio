@@ -1,9 +1,45 @@
-<mxfile host="app.diagrams.net" modified="2023-07-13T07:48:08.052Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.5.1 Safari/605.1.15" version="21.6.1" etag="OgDKGa8-pLoZn0GL4ku2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-13T08:04:06.963Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.5.1 Safari/605.1.15" etag="EmARXfHNBFsBDAGN3qof" version="21.6.1" type="github">
   <diagram name="Page-1" id="L_rsOe9JRDTlUnt0Wt8D">
-    <mxGraphModel>
+    <mxGraphModel dx="1224" dy="816" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="bV-5k0JxZGQO1CO2YntY-2" value="PostCode" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="50" y="160" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="bV-5k0JxZGQO1CO2YntY-3" value="City" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="150" y="160" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="bV-5k0JxZGQO1CO2YntY-4" value="Street" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="250" y="160" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="bV-5k0JxZGQO1CO2YntY-5" value="Address" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="120" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bV-5k0JxZGQO1CO2YntY-6" value="PropertyID" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="390" y="160" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="bV-5k0JxZGQO1CO2YntY-7" value="Rentrate" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="490" y="160" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="bV-5k0JxZGQO1CO2YntY-8" value="Room" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="590" y="160" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="bV-5k0JxZGQO1CO2YntY-9" value="Property" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="120" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bV-5k0JxZGQO1CO2YntY-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="bV-5k0JxZGQO1CO2YntY-10" target="bV-5k0JxZGQO1CO2YntY-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bV-5k0JxZGQO1CO2YntY-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="bV-5k0JxZGQO1CO2YntY-10" target="bV-5k0JxZGQO1CO2YntY-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bV-5k0JxZGQO1CO2YntY-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="bV-5k0JxZGQO1CO2YntY-10" target="bV-5k0JxZGQO1CO2YntY-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bV-5k0JxZGQO1CO2YntY-10" value="Adress" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="690" y="160" width="100" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
